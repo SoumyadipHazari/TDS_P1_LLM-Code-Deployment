@@ -1,4 +1,4 @@
-#TDS Project: LLM Code Deployment
+TDS Project: LLM Code Deployment
 
 In this project, students will build an application that can build, deploy, update an application!
 
